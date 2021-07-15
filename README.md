@@ -2,7 +2,7 @@
 
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folgywns12&count_bg=%23000000&title_bg=%2348A468&icon=&icon_color=%23E7E7E7&title=Check+In&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folgywns12&count_bg=%23000000&title_bg=%2348A468&icon=&icon_color=%23E7E7E7&title=Check+In&edge_flat=false)](https://github.com/olgywns12)
 
 </div>
 
