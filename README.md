@@ -6,10 +6,12 @@
 
 </div>
 
+##### AI엔지니어가 되고픈 이효준입니다. ✍
+
 - 💬 Ask me about, Age: 28 / Male / Language : 🇰🇷 🇮🇩 🇺🇸
 - 🔭 I’m currently working on `산업보안거버넌스 경영공학 master course in INHA univ.` 
-- 🌱 I’m currently learning `python`
-- 📫 How to reach me: olgywns12@naver.com 
+- 🌱 I’m currently learning `python` `tensorflow` `pytorch` 😪
+- 📫 How to reach me: olgywns12@naver.com
 
 <!--
 **olgywns12/olgywns12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
