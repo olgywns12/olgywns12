@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 👋
 
 <div align=center>
 
@@ -6,8 +6,10 @@
 
 </div>
 
-
-- 🌱 I’m currently learning `python` 
+- 💬 Ask me about, Age: 28 / Male / Language : 🇰🇷 🇮🇩 🇺🇸
+- 🔭 I’m currently working on `산업보안거버넌스 경영공학 master course in INHA univ.` 
+- 🌱 I’m currently learning `python`
+- 📫 How to reach me: olgywns12@naver.com 
 
 <!--
 **olgywns12/olgywns12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
