@@ -1,10 +1,5 @@
 ### 안녕하세요 👋
 
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folgywns12&count_bg=%236DD31F&title_bg=%23555555&icon=line.svg&icon_color=%23E7E7E7&title=Check+In&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
 
 #### AI엔지니어가 되고픈 이효준입니다. ✍
 
@@ -18,7 +13,16 @@
 - 👶 1994.07.26 ~ 
 - ✈️ 2001.09 ~ 2013.02 Lived in Indonesia 
 - 🏫 2013.03 ~ 2019.09 Bachelor - Industrial Engineering(INHA univ.)
-- 🏫 2019.09 ~ 2021.08 Master - Industrial Security Governance(INHA univ.)
+- 🎓 2019.09 ~ 2021.08 Master - Industrial Security Governance(INHA univ.)
+- 🏁 2021.07 ~ 🔥🔥🔥  
+---
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folgywns12&count_bg=%236DD31F&title_bg=%23555555&icon=line.svg&icon_color=%23E7E7E7&title=Check+In&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
+
 
 <!--
 **olgywns12/olgywns12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
