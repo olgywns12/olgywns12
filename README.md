@@ -6,12 +6,19 @@
 
 </div>
 
-##### AI엔지니어가 되고픈 이효준입니다. ✍
+#### AI엔지니어가 되고픈 이효준입니다. ✍
 
 - 💬 Ask me about, Age: 28 / Male / Language : 🇰🇷 🇮🇩 🇺🇸
 - 🔭 I’m currently working on `산업보안거버넌스 경영공학 master course in INHA univ.` 
 - 🌱 I’m currently learning `python` `tensorflow` `pytorch` 😪
 - 📫 How to reach me: olgywns12@naver.com
+
+
+#### Biography
+- 👶 1994.07.26 Born
+- ✈️ 2001.09 ~ 2013.02 Indonesia 
+- 🏫 2013.03 ~ 2019.09 Bachelor - Industrial Engineering(INHA univ.)
+- 🏫 2019.09 ~ 2021.08 Master - Industrial Security Governance(INHA univ.)
 
 <!--
 **olgywns12/olgywns12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
