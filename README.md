@@ -6,15 +6,12 @@
 - 💬 Ask me about, Age: 28 / Male / Language : 🇰🇷 🇮🇩 🇺🇸
 - 🔭 I’m currently working on `산업보안거버넌스 경영공학 master course in INHA univ.` 
 - 🌱 I’m currently studying `python` `tensorflow` `pytorch` 😪
-- 📫 How to reach me: olgywns12@naver.com
-
 
 #### Biography
 - 👶 1994.07.26 ~ 
 - ✈️ 2001.09 ~ 2013.02 Lived in Indonesia 
 - 🏫 2013.03 ~ 2019.09 Bachelor - Industrial Engineering(INHA univ.)
 - 🎓 2019.09 ~ 2021.08 Master - Industrial Security Governance(INHA univ.)
-- 🏁 2021.07 ~ 🔥🔥🔥  
 ---
 <div align=center>
 
